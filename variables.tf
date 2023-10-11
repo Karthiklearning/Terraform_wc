@@ -6,7 +6,7 @@ variable "AMI" {
     type = map(string)
 
     default = {
-        us-west-2 = "ami-0d593311db5abb72b"
+        us-west-2 = "ami-090f735392c67fc88"
         us-east-1 = "ami-0c2a1acae6667e438"
     }
 }
